@@ -1,0 +1,13 @@
+# build artifacts
+.build_env/
+build/
+dist/
+*.exe
+__pycache__/
+*.pyc
+
+# runtime output / local data
+Data/
+*.log
+*.db
+config.ini
